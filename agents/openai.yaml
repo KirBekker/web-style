@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Style"
+  short_description: "Plan and apply a coherent website visual system"
+  default_prompt: "Review the project brief and existing site, then define or implement a coherent, accessible visual style."
